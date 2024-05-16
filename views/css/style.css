@@ -1,0 +1,180 @@
+
+
+video {
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    z-index: -100;
+}
+input{
+    font-weight: bold !important;
+}
+table {
+    text-align: center;
+}
+
+td {
+    vertical-align: middle;
+}
+
+select {
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.bienvenidaInvitado {
+    color: white;
+}
+#registroProducto {
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.57);
+    width: 30%;
+    margin: auto;
+    padding: 1%;
+    font-family: Monaco, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 1rem;
+    border: solid black 3px;
+    box-shadow: 0px 0px 10px rgba(255, 217, 0, 0.646);
+}
+#registroProducto input {
+    width: 100%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    font-size: 1.3rem;
+}
+
+.registroUsuario {
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.57);
+    width: 30%;
+    margin-top: 4% !important;
+    margin: auto;
+    padding: 1%;
+    font-family: Monaco, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    border: solid black 3px;
+    box-shadow: 0px 0px 10px rgba(255, 217, 0, 0.646);
+}
+
+.registroUsuario input {
+    width: 100%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    font-size: 1.3rem;
+}
+
+legend {
+    text-align: center;
+    margin-bottom: 1%;
+    font-size: 3rem;
+    margin-bottom: 10%;
+    color: black;
+    font-weight: bold;
+    
+}
+h1{
+      color: rgb(255, 255, 255) !important;
+      text-align: center;
+      font-weight: bold;
+      font-size: 3rem !important;
+      font-family:Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.titulo{
+    font-family:Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 4px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255) !important;
+    box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.755);
+    width: fit-content;
+    margin: auto;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-weight: bold;
+    background-color: rgba(36, 36, 14, 0.572);
+
+}
+td, th{
+    border: rgb(0, 0, 0) 3px solid !important;
+}
+th{
+    vertical-align: middle;
+    background-color: rgba(235, 224, 11, 0.91) !important;
+    color: black !important;
+    font-size: 1.5rem;
+}
+td{
+    background-color: rgba(255, 255, 255, 0.696) !important;
+    color: black !important;
+    font-weight: bold;
+    padding: 10%;
+}
+.divTablas h1{
+    font-family:Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 4px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255) !important;
+    box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.755);
+    width: fit-content;
+    margin: auto;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-weight: bold;
+
+}
+footer{
+    position:static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 2%;
+}
+.resultado{
+    color: white;
+    background-color: dimgray;
+    width: fit-content;
+    margin: auto;
+    padding: 1%;
+    border: white 1px solid;
+    
+}
+.finalizar{
+    width: 20%;
+    margin: auto;
+    margin-top: 3%;
+    font-size: 1.1rem;
+    
+}
+.totalCesta{
+    text-align: center;
+}
+.bienvenidaInvitado{
+    background-color: rgba(255, 255, 255, 0.351);
+    margin-top: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-radius: 5%;
+    border: black 5px solid;
+}
+.bienvenidaInvitado h1{
+    margin-bottom: 5%;
+}
+.bienvenidaInvitado p{
+    font-size: 1.2rem;
+    color: black;
+    font-weight: bold;
+}
+#msjBienvenida{
+    color: rgb(0, 0, 0) !important;
+    text-align: center;
+    font-weight: bold;
+    font-size: 3rem !important;
+    font-family:Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 4px solid rgb(0, 0, 0);
+    
+}
+#login{
+    margin-top: 10% !important;
+}
